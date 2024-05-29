@@ -7,5 +7,6 @@ import (
 )
 
 func Handler(w http.ResponseWriter, r *http.Request) {
+
     os.Exit(glance.Main())
 }
