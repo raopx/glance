@@ -1,4 +1,4 @@
-module github.com/glanceapp/glance
+module github.com/raopx/glance
 
 go 1.22.0
 
