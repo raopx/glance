@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"strings"
 
-	"github.com/glanceapp/glance/internal/assets"
+	"github.com/raopx/glance/internal/assets"
 )
 
 type Bookmarks struct {

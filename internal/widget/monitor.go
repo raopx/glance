@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/glanceapp/glance/internal/assets"
-	"github.com/glanceapp/glance/internal/feed"
+	"github.com/raopx/glance/internal/assets"
+	"github.com/raopx/glance/internal/feed"
 )
 
 func statusCodeToText(status int) string {
